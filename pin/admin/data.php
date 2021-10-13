@@ -3,7 +3,7 @@
 $con = mysqli_connect("localhost","root","","oes") or die("Connection problem.");
 $cid= $sid= $count=$counts=0;
 $count=0;
-$dl = '<center> <table border="1px" margin="0px">
+$dl = '<center><table border="1px" margin="0px">
 <tr>
    <td rowspan="2">Center No</td>
    <td colspan="5"><center>School population</center></td>
